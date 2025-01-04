@@ -154,3 +154,32 @@ h3 {
 .image-text a:hover {
   color: rgb(112, 132, 245);
 }
+
+/* Third part */
+
+.quote {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #d4d7dc;
+  display: flex;
+  justify-content: center;
+}
+.container-quote {
+  width: 50%;
+}
+.text-quote {
+  font-style: italic;
+  font-size: 40px;
+}
+.name {
+  font-size: 35px;
+  margin: 0;
+  padding: 0;
+  padding-bottom: 30px;
+  text-align: right;
+  font-weight: 800;
+}
+
+/*  */
