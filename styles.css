@@ -116,7 +116,7 @@ button:hover {
 /* Second part */
 
 h3 {
-  font-size: 40px;
+  font-size: 45px;
   font-weight: 900;
   text-align: center;
   margin-top: 50px;
@@ -129,14 +129,14 @@ h3 {
 .images-group {
   display: flex;
   justify-content: center;
-  gap: 20px;
+  gap: 35px;
   min-width: 300px;
   flex-wrap: wrap;
 }
 
 .image {
-  height: 300px;
-  width: 220px;
+  height: 320px;
+  width: 240px;
   border: 3px solid #1f2937;
   border-radius: 15px;
 }
@@ -144,6 +144,7 @@ h3 {
   text-align: center;
   width: 210px;
   color: #2e3642;
+  font-size: 25px;
 }
 .link {
   color: #102e57;
