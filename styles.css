@@ -182,4 +182,45 @@ h3 {
   font-weight: 800;
 }
 
-/*  */
+/* fourth part */
+.fourth-section {
+  display: flex;
+  justify-content: center;
+}
+
+.action {
+  background-color: #3882f6;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 70px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  width: 57%;
+  border-radius: 8px;
+}
+
+.container-action {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.title-action {
+  font-size: 40px;
+  font-weight: 900;
+}
+
+.sub-title-action {
+  font-size: 20px;
+  padding: 5px;
+  text-align: justify;
+}
+
+.botton {
+  border: 3px solid oldlace;
+  background-color: #306bc900;
+  border-radius: 15px;
+  padding: 10px;
+}
